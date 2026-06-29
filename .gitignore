@@ -1,0 +1,12 @@
+server-bot
+data/
+.env
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+auth_demo/
+tmp/
